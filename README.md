@@ -1,1 +1,3 @@
-# Zomato-Data-Analysis-Using-SQL
+Analyzing Zomato users, sales, memberships, products data using SQL.
+
+DataBase: SQL Server
